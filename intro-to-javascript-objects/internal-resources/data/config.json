@@ -1,0 +1,223 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "Intro to JavaScript Objects",
+    "name": "intro-to-javascript-objects",
+    "type": "Lesson"
+  },
+  "courses": [
+    {
+      "name": "fallback",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Fundamentals",
+          "dirName": "fundamentals",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Manipulation",
+          "dirName": "manipulation",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Methods",
+          "dirName": "methods",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Data Structures",
+          "dirName": "data-structures",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": " this ",
+          "dirName": "this",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Getters and Setters",
+          "dirName": "getters-and-setters",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Iterating Through Properties",
+          "dirName": "iterating-through-properties",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Property Shorthand Syntax",
+          "dirName": "property-shorthand-syntax",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "How Variables Reference Objects",
+          "dirName": "how-variables-reference-objects",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Square Bracket Notation",
+          "dirName": "square-bracket-notation",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Prototyping and Inheritance",
+          "dirName": "prototyping-and-inheritance",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "seb",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Fundamentals",
+          "dirName": "fundamentals",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Manipulation",
+          "dirName": "manipulation",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Methods",
+          "dirName": "methods",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Data Structures",
+          "dirName": "data-structures",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": " this ",
+          "dirName": "this",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Getters and Setters",
+          "dirName": "getters-and-setters",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Iterating Through Properties",
+          "dirName": "iterating-through-properties",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Property Shorthand Syntax",
+          "dirName": "property-shorthand-syntax",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "How Variables Reference Objects",
+          "dirName": "how-variables-reference-objects",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Square Bracket Notation",
+          "dirName": "square-bracket-notation",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Prototyping and Inheritance",
+          "dirName": "prototyping-and-inheritance",
+          "type": "Level Up content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    }
+  ]
+}

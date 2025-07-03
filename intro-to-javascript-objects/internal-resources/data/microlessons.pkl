@@ -1,0 +1,95 @@
+import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/static/v2/pkl/template.pkl" as Template
+
+// Add microlessons here, in the order they should be delivered
+
+setup = new Template.Microlesson {
+  friendlyName = "Setup"
+  dirName = "setup"
+  type = "Content"
+  videoUrl = ""
+}
+
+concepts = new Template.Microlesson {
+  friendlyName = "Concepts"
+  dirName = "concepts"
+  type = "Content"
+  videoUrl = ""
+}
+
+fundamentals = new Template.Microlesson {
+  friendlyName = "Fundamentals"
+  dirName = "fundamentals"
+  type = "Content"
+  videoUrl = ""
+}
+
+manipulation = new Template.Microlesson {
+  friendlyName = "Manipulation"
+  dirName = "manipulation"
+  type = "Content"
+  videoUrl = ""
+}
+
+methods = new Template.Microlesson {
+  friendlyName = "Methods"
+  dirName = "methods"
+  type = "Content"
+  videoUrl = ""
+}
+
+dataStructures = new Template.Microlesson {
+  friendlyName = "Data Structures"
+  dirName = "data-structures"
+  type = "Content"
+  videoUrl = ""
+}
+
+`this` = new Template.Microlesson {
+  friendlyName = " this "
+  dirName = "this"
+  type = "Content"
+  videoUrl = ""
+}
+
+gettersAndSetters = new Template.Microlesson {
+  friendlyName = "Getters and Setters"
+  dirName = "getters-and-setters"
+  type = "Content"
+  videoUrl = ""
+}
+
+iteratingThroughProperties = new Template.Microlesson {
+  friendlyName = "Iterating Through Properties"
+  dirName = "iterating-through-properties"
+  type = "Content"
+  videoUrl = ""
+}
+
+propertyShorthandSyntax = new Template.Microlesson {
+  friendlyName = "Property Shorthand Syntax"
+  dirName = "property-shorthand-syntax"
+  type = "Content"
+  videoUrl = ""
+}
+
+howVariablesReferenceObjects = new Template.Microlesson {
+  friendlyName = "How Variables Reference Objects"
+  dirName = "how-variables-reference-objects"
+  type = "Content"
+  videoUrl = ""
+}
+
+squareBracketNotation = new Template.Microlesson {
+  friendlyName = "Square Bracket Notation"
+  dirName = "square-bracket-notation"
+  type = "Content"
+  videoUrl = ""
+}
+
+prototypingAndInheritance = new Template.Microlesson {
+  friendlyName = "Prototyping and Inheritance"
+  dirName = "prototyping-and-inheritance"
+  type = "Content"
+  videoUrl = ""
+}
+
